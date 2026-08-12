@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pritttm/dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pritttm/dsa-practice/tree/master/0287-find-the-duplicate-number) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pritttm/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Pritttm/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pritttm/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0234-palindrome-linked-list) |
@@ -55,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -77,4 +80,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0234-palindrome-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

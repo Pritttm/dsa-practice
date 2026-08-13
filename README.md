@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritttm/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritttm/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Pritttm/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pritttm/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -60,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
@@ -99,5 +102,6 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

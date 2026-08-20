@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritttm/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/Pritttm/dsa-practice/tree/master/0204-count-primes) |
@@ -144,4 +145,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

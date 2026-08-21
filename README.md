@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pritttm/dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pritttm/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pritttm/dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,4 +162,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0152-maximum-product-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 <!---LeetCode Topics End-->

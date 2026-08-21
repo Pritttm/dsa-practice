@@ -69,6 +69,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Pritttm/dsa-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Pritttm/dsa-practice/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |

@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pritttm/dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pritttm/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pritttm/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pritttm/dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -31,6 +32,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Pritttm/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pritttm/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -84,6 +86,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Pritttm/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pritttm/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |

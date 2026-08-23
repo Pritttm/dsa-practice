@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pritttm/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Pritttm/dsa-practice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Pritttm/dsa-practice/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pritttm/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pritttm/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Pritttm/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pritttm/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pritttm/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pritttm/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -144,6 +146,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pritttm/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pritttm/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 ## Enumeration
 |  |
@@ -208,6 +211,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pritttm/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritttm/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Bucket Sort
 |  |

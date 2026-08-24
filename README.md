@@ -149,6 +149,7 @@
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Pritttm/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

@@ -54,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pritttm/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Pritttm/dsa-practice/tree/master/0141-linked-list-cycle) |
@@ -141,6 +142,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Pritttm/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Pritttm/dsa-practice/tree/master/0205-isomorphic-strings) |
@@ -191,6 +193,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
@@ -227,4 +230,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pritttm/dsa-practice/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

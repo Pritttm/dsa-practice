@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Pritttm/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Pritttm/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritttm/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0152-maximum-product-subarray) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Pritttm/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pritttm/dsa-practice/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Pritttm/dsa-practice/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->

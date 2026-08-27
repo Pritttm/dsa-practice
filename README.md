@@ -153,6 +153,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Pritttm/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Pritttm/dsa-practice/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Pritttm/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Pritttm/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -206,6 +207,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Pritttm/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Pritttm/dsa-practice/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pritttm/dsa-practice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/0300-longest-increasing-subsequence) |

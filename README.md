@@ -134,6 +134,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pritttm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0234-palindrome-linked-list) |
 ## Quicksort
 |  |
@@ -265,4 +266,16 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pritttm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pritttm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pritttm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

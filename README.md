@@ -96,6 +96,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pritttm/dsa-practice/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pritttm/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Pritttm/dsa-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |

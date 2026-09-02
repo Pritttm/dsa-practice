@@ -279,6 +279,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pritttm/dsa-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Pritttm/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pritttm/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Pritttm/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pritttm/dsa-practice/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
@@ -287,6 +288,7 @@
 | [0100-same-tree](https://github.com/Pritttm/dsa-practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pritttm/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pritttm/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Pritttm/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pritttm/dsa-practice/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
 |  |
@@ -297,6 +299,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pritttm/dsa-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Pritttm/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pritttm/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Pritttm/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pritttm/dsa-practice/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 |  |
@@ -308,5 +311,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pritttm/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pritttm/dsa-practice/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->

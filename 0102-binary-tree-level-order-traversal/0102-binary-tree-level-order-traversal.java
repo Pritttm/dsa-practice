@@ -14,24 +14,24 @@
  * }
  */
 class Solution {
+    List<List<Integer>>ans=new ArrayList<>();
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>>ans=new ArrayList<>();
         if(root==null) return ans;
 
         Deque<TreeNode>dq=new ArrayDeque<>();
         dq.offer(root);
-        
+
         while(!dq.isEmpty()){
             int size=dq.size();
-            List<Integer>currlist=new ArrayList<>();
-
+            List<Integer>currlavel=new ArrayList<>();
             for(int i=0;i<size;i++){
                 TreeNode node=dq.poll();
-                currlist.add(node.val);
+                currlavel.add(node.val);
+
                 if(node.left!=null) dq.offer(node.left);
                 if(node.right!=null) dq.offer(node.right);
             }
-            ans.add(currlist);
+            ans.add(currlavel);
         }
         return ans;
     }

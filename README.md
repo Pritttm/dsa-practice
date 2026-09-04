@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Pritttm/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritttm/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pritttm/dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -256,6 +257,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Pritttm/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Pritttm/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritttm/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
 ## Bucket Sort
 |  |
 | ------- |

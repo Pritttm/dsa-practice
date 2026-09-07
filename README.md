@@ -119,6 +119,7 @@
 | [0507-perfect-number](https://github.com/Pritttm/dsa-practice/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritttm/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
@@ -181,6 +182,7 @@
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pritttm/dsa-practice/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

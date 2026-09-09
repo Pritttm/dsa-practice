@@ -121,6 +121,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pritttm/dsa-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Sorting
 |  |
 | ------- |

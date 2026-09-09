@@ -121,6 +121,7 @@
 | [0204-count-primes](https://github.com/Pritttm/dsa-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Pritttm/dsa-practice/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Pritttm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritttm/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -157,6 +158,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Pritttm/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Pritttm/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0152-maximum-product-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pritttm/dsa-practice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0509-fibonacci-number](https://github.com/Pritttm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Simulation
@@ -353,4 +356,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Pritttm/dsa-practice/tree/master/0796-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Pritttm/dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

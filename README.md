@@ -121,6 +121,7 @@
 | [0189-rotate-array](https://github.com/Pritttm/dsa-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pritttm/dsa-practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Pritttm/dsa-practice/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Pritttm/dsa-practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Pritttm/dsa-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Pritttm/dsa-practice/tree/master/0509-fibonacci-number) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Pritttm/dsa-practice/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Pritttm/dsa-practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
@@ -252,6 +254,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Pritttm/dsa-practice/tree/master/0258-add-digits) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pritttm/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)

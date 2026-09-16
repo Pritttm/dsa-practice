@@ -370,4 +370,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pritttm/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/Pritttm/dsa-practice/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->

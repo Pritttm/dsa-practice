@@ -60,6 +60,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritttm/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Pritttm/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritttm/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -85,6 +86,7 @@
 | [0234-palindrome-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Pritttm/dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pritttm/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pritttm/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -190,6 +192,7 @@
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pritttm/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pritttm/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Pritttm/dsa-practice/tree/master/0796-rotate-string) |
@@ -200,6 +203,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pritttm/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pritttm/dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 ## Enumeration
 |  |
 | ------- |

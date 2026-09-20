@@ -167,6 +167,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pritttm/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pritttm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0234-palindrome-linked-list) |
 ## Quicksort
@@ -186,6 +187,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pritttm/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Pritttm/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Pritttm/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Pritttm/dsa-practice/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Pritttm/dsa-practice/tree/master/0205-isomorphic-strings) |
@@ -379,4 +381,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Pritttm/dsa-practice/tree/master/0175-combine-two-tables) |
 | [0511-game-play-analysis-i](https://github.com/Pritttm/dsa-practice/tree/master/0511-game-play-analysis-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pritttm/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

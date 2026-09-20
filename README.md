@@ -385,6 +385,7 @@
 | [0183-customers-who-never-order](https://github.com/Pritttm/dsa-practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Pritttm/dsa-practice/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Pritttm/dsa-practice/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Pritttm/dsa-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Pritttm/dsa-practice/tree/master/0595-big-countries) |
 ## Bracket Sequences
 |  |

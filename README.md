@@ -386,6 +386,7 @@
 | [0184-department-highest-salary](https://github.com/Pritttm/dsa-practice/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Pritttm/dsa-practice/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pritttm/dsa-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/Pritttm/dsa-practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Pritttm/dsa-practice/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pritttm/dsa-practice/tree/master/1757-recyclable-and-low-fat-products) |
 ## Bracket Sequences

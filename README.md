@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pritttm/dsa-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Pritttm/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pritttm/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pritttm/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pritttm/dsa-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Pritttm/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Pritttm/dsa-practice/tree/master/0141-linked-list-cycle) |

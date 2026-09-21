@@ -3,13 +3,16 @@ class Solution {
         
         if(s.length()!=t.length()) return false;
 
-        int freq[]=new int [26];
+        int words[]=new int[26];
+
         for(int i=0;i<s.length();i++){
-            freq[s.charAt(i)-'a']++;
-            freq[t.charAt(i)-'a']--;
+            words[s.charAt(i)-'a']++;
         }
-        for(int num:freq){
-            if(num!=0) return false;
+        for(int i=0;i<t.length();i++){
+            words[t.charAt(i)-'a']--;
+        }
+        for(int i=0;i<words.length;i++){
+            if(words[i]!=0) return false;
         }
         return true;
     }

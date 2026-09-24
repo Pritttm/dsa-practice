@@ -68,6 +68,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Pritttm/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Pritttm/dsa-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -210,6 +211,7 @@
 | [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pritttm/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Pritttm/dsa-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |

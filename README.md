@@ -50,6 +50,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pritttm/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pritttm/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Pritttm/dsa-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -322,6 +323,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Pritttm/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Pritttm/dsa-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -345,6 +347,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Pritttm/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Pritttm/dsa-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

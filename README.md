@@ -115,6 +115,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pritttm/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pritttm/dsa-practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Pritttm/dsa-practice/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pritttm/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pritttm/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pritttm/dsa-practice/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Pritttm/dsa-practice/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pritttm/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Pritttm/dsa-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pritttm/dsa-practice/tree/master/0202-happy-number) |
@@ -457,4 +459,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pritttm/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pritttm/dsa-practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

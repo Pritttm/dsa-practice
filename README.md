@@ -158,6 +158,7 @@
 | [0204-count-primes](https://github.com/Pritttm/dsa-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pritttm/dsa-practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pritttm/dsa-practice/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Pritttm/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Pritttm/dsa-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Pritttm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritttm/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -233,6 +234,7 @@
 | [0205-isomorphic-strings](https://github.com/Pritttm/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pritttm/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Pritttm/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Pritttm/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pritttm/dsa-practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Pritttm/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pritttm/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)

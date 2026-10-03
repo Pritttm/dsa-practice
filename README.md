@@ -46,6 +46,7 @@
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Pritttm/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/Pritttm/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -113,6 +114,7 @@
 | [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Pritttm/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pritttm/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pritttm/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -178,6 +180,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Pritttm/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritttm/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0905-sort-array-by-parity](https://github.com/Pritttm/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pritttm/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |

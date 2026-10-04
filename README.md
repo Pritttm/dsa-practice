@@ -55,6 +55,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pritttm/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pritttm/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pritttm/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pritttm/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Pritttm/dsa-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -183,6 +184,7 @@
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/Pritttm/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pritttm/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pritttm/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pritttm/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pritttm/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String Matching
 |  |
 | ------- |

@@ -49,6 +49,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Pritttm/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Pritttm/dsa-practice/tree/master/0905-sort-array-by-parity) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -86,6 +87,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Pritttm/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pritttm/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pritttm/dsa-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -260,6 +262,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Pritttm/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Pritttm/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pritttm/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Enumeration
@@ -348,6 +351,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Pritttm/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Pritttm/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Pritttm/dsa-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Bucket Sort

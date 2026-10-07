@@ -54,6 +54,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Pritttm/dsa-practice/tree/master/1046-last-stone-weight) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Pritttm/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pritttm/dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pritttm/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -90,6 +91,7 @@
 | [0567-permutation-in-string](https://github.com/Pritttm/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Pritttm/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pritttm/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pritttm/dsa-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -172,6 +174,7 @@
 | [0507-perfect-number](https://github.com/Pritttm/dsa-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Pritttm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pritttm/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Pritttm/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pritttm/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -267,6 +270,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Pritttm/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Pritttm/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pritttm/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Enumeration
 |  |
@@ -357,6 +361,7 @@
 | [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Pritttm/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Pritttm/dsa-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Bucket Sort
 |  |

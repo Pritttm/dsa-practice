@@ -114,6 +114,7 @@
 | [0075-sort-colors](https://github.com/Pritttm/dsa-practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pritttm/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pritttm/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Pritttm/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pritttm/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pritttm/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Pritttm/dsa-practice/tree/master/0189-rotate-array) |
@@ -244,6 +245,7 @@
 | [0020-valid-parentheses](https://github.com/Pritttm/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pritttm/dsa-practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Pritttm/dsa-practice/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Pritttm/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Pritttm/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Pritttm/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pritttm/dsa-practice/tree/master/0242-valid-anagram) |

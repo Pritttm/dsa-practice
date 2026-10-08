@@ -50,6 +50,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Pritttm/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Pritttm/dsa-practice/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Pritttm/dsa-practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pritttm/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -313,6 +314,7 @@
 | [0169-majority-element](https://github.com/Pritttm/dsa-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pritttm/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pritttm/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Pritttm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
@@ -460,6 +463,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pritttm/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Database
 |  |
 | ------- |
@@ -505,4 +509,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pritttm/dsa-practice/tree/master/0069-sqrtx) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

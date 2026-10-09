@@ -1,16 +1,18 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int maxprod=nums[0];
-        int currmax=nums[0];
-        int currmin=nums[0];
+        int maxxprod=Integer.MIN_VALUE;
+        int currmin=1;
+        int currmax=1;
 
-        for(int i=1;i<nums.length;i++){
-            int num=nums[i];
+        for(int num:nums){
+            int prevmin=currmin;
             int prevmax=currmax;
-            currmax=Math.max(num,Math.max(currmax*num,currmin*num));
-            currmin=Math.min(num,Math.min(prevmax*num,currmin*num));
-            maxprod=Math.max(maxprod,Math.max(currmax,currmin));
+
+            currmin=Math.min(num,Math.min(prevmin*num,prevmax*num));
+            currmax=Math.max(num,Math.max(prevmin*num,prevmax*num));
+
+            maxxprod=Math.max(maxxprod,currmax);
         }
-        return maxprod;
+        return maxxprod;
     }
 }

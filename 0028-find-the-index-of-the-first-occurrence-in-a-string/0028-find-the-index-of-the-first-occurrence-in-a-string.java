@@ -1,10 +1,11 @@
 class Solution {
-    public int strStr(String s1, String s2) {
-        int n= s1.length();
-        int m= s2.length();
-        
-        for(int i=0;i<=n-m;i++){
-            if(s1.substring(i,i+m).equals(s2)){
+    public int strStr(String haystack, String needle) {
+
+        int m=haystack.length();
+        int n=needle.length();
+
+        for(int i=0;i<=m-n;i++){
+            if(haystack.substring(i,i+n).equals(needle)){
                 return i;
             }
         }

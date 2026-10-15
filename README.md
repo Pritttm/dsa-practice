@@ -231,6 +231,7 @@
 | [0234-palindrome-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Pritttm/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pritttm/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Pritttm/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pritttm/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Quicksort
@@ -267,6 +268,7 @@
 | [0647-palindromic-substrings](https://github.com/Pritttm/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Pritttm/dsa-practice/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Pritttm/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pritttm/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Pritttm/dsa-practice/tree/master/1143-longest-common-subsequence) |
@@ -495,6 +497,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pritttm/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Pritttm/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pritttm/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |

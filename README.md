@@ -50,6 +50,7 @@
 | [0692-top-k-frequent-words](https://github.com/Pritttm/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Pritttm/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pritttm/dsa-practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Pritttm/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Pritttm/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pritttm/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pritttm/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -229,6 +230,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pritttm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Pritttm/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Pritttm/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Pritttm/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pritttm/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Quicksort
@@ -498,6 +500,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pritttm/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Pritttm/dsa-practice/tree/master/0739-daily-temperatures) |
 ## Rolling Hash
 |  |
 | ------- |

@@ -1,12 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        
-        int n= nums.length;
-        int expsum= n*(n+1)/2;
-        int actsum= 0;
-        for(int num : nums){
-            actsum += num;
+        HashSet<Integer>set=new HashSet<>();
+        for(int num:nums){
+            set.add(num);
         }
-        return expsum-actsum;
+        for(int i=0;i<nums.length+1;i++){
+            if(!set.contains(i)) return i;
+        }
+        return -1;
     }
 }

@@ -4,11 +4,9 @@ class Solution {
 
         for(int i=0;i<numRows;i++){
             List<Integer>row=new ArrayList<>();
-
             for(int j=0;j<=i;j++){
-                if(j==0||j==i){
-                    row.add(1);
-                }else{
+                if(j==0||j==i) row.add(1);
+                else{
                     List<Integer>prev=ans.get(i-1);
                     row.add(prev.get(j-1)+prev.get(j));
                 }

@@ -1,10 +1,9 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
+        int sum=0;
+        int ans=0;
         HashMap<Integer,Integer>map=new HashMap<>();
         map.put(0,1);
-
-        int ans=0;
-        int sum=0;
 
         for(int num:nums){
             sum+=num;

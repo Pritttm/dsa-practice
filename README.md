@@ -71,6 +71,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pritttm/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pritttm/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Pritttm/dsa-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pritttm/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Pritttm/dsa-practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Pritttm/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pritttm/dsa-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pritttm/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pritttm/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -197,6 +199,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Pritttm/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pritttm/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pritttm/dsa-practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pritttm/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -419,6 +422,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Pritttm/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Pritttm/dsa-practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2965-find-missing-and-repeated-values](https://github.com/Pritttm/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

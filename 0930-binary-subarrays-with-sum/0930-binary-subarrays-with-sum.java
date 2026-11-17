@@ -1,15 +1,20 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int count=0;
+        int sum=0;
+        int ans=0;
 
-        for(int i=0;i<nums.length;i++){
-            int sum=0;
-            for(int j=i;j<nums.length;j++){
-                sum+=nums[j];
+        HashMap<Integer,Integer>map=new HashMap<>();
 
-                if(sum==goal) count++;
-            }
+        map.put(0,1);
+
+        for(int num:nums){
+            sum+=num;
+            int need=sum-goal;
+
+            ans+=(map.getOrDefault(need,0));
+
+            map.put(sum,map.getOrDefault(sum,0)+1);
         }
-        return count;
+        return ans;
     }
 }

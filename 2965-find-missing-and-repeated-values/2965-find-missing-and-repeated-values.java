@@ -3,25 +3,25 @@ class Solution {
         int m=grid.length;
         int n=grid[0].length;
 
-        int repeate=-1;
-        int missing=-1;
-
         HashSet<Integer>set=new HashSet<>();
+
+        int reap=-1;
+        int miss=-1;
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(set.contains(grid[i][j])){
-                    repeate=grid[i][j];
+                    reap=grid[i][j];
                 }
-                else set.add(grid[i][j]);
+                set.add(grid[i][j]);
             }
         }
         for(int i=1;i<=m*n;i++){
-            if(!set.contains(i)) {
-                missing=i;
+            if(!set.contains(i)){
+                miss=i;
                 break;
             }
         }
-        return new int[]{repeate,missing};
+        return new int[]{reap,miss};
     }
 }

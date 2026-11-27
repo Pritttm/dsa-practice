@@ -3,7 +3,7 @@ class Solution {
         int maxsum=Integer.MIN_VALUE;
         int sum=0;
         for(int num:nums){
-            sum=Math.max(num,sum+num);
+            sum=Math.max(sum+num,num);
             maxsum=Math.max(sum,maxsum);
         }
         return maxsum;
